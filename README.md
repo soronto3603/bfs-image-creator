@@ -1,4 +1,5 @@
 # BFS Image Creator
+![Generated Image](output_1710210561627.png)
 
 ## Overview
 
